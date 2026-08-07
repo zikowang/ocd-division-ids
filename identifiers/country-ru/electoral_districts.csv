@@ -39,6 +39,7 @@ ocd-division/country:ru/state:irk/ed:irkutsky,Irkutsky,,
 ocd-division/country:ru/state:irk/ed:shelekhov,Shelekhov,,
 ocd-division/country:ru/state:iva/ed:91,Ivanovo,,2025-05-23
 ocd-division/country:ru/state:iva/ed:92,Kineshma,,2025-05-23
+ocd-division/country:ru/state:iva/ed:ivanovo,Ivanovo,2025-05-23,
 ocd-division/country:ru/state:kam/ed:kamchatka,Kamchatka,,
 ocd-division/country:ru/state:kb/ed:kabardino-balkaria,Kabardino-Balkaria,,
 ocd-division/country:ru/state:kc/ed:karachay-cherkessia,Karachay-Cherkessia,,
@@ -76,6 +77,7 @@ ocd-division/country:ru/state:kk/ed:khakassia,Khakassia,,
 ocd-division/country:ru/state:kl/ed:kalmykia,Kalmykia,,
 ocd-division/country:ru/state:klu/ed:100,Obninsk,,2025-05-23
 ocd-division/country:ru/state:klu/ed:99,Kaluga,,2025-05-23
+ocd-division/country:ru/state:klu/ed:kaluga,Kaluga,2025-05-23,
 ocd-division/country:ru/state:ko/ed:syktyvkar,Syktyvkar,,
 ocd-division/country:ru/state:kos/ed:kostroma,Kostroma,,
 ocd-division/country:ru/state:kr/ed:karelia,Karelia,,
@@ -178,6 +180,7 @@ ocd-division/country:ru/state:sar/ed:saratovsky,Saratovsky,,
 ocd-division/country:ru/state:se/ed:north_ossetia,North Ossetia,,
 ocd-division/country:ru/state:smo/ed:175,Smolensk,,2025-05-23
 ocd-division/country:ru/state:smo/ed:176,Roslavl,,2025-05-23
+ocd-division/country:ru/state:smo/ed:smolensk,Smolensk,2025-05-23,
 ocd-division/country:ru/state:spe/ed:city_of_saint_petersburg_-_central,City of Saint Petersburg - Central,,
 ocd-division/country:ru/state:spe/ed:city_of_saint_petersburg_-_east,City of Saint Petersburg - East,,
 ocd-division/country:ru/state:spe/ed:city_of_saint_petersburg_-_north-east,City of Saint Petersburg - North-East,,
@@ -205,8 +208,10 @@ ocd-division/country:ru/state:ta/ed:privolzhsky,Privolzhsky,,
 ocd-division/country:ru/state:ta/ed:tatarstan_central,Tatarstan Central,,
 ocd-division/country:ru/state:tam/ed:177,Tambov,,2025-05-23
 ocd-division/country:ru/state:tam/ed:178,Rasskazovsky,,2025-05-23
+ocd-division/country:ru/state:tam/ed:tambov,Tambov,2025-05-23,
 ocd-division/country:ru/state:tom/ed:181,Tomsk,,2025-05-23
 ocd-division/country:ru/state:tom/ed:182,Obsk,,2025-05-23
+ocd-division/country:ru/state:tom/ed:tomsk,Tomsk,2025-05-23,
 ocd-division/country:ru/state:tul/ed:novomoskovsk,Novomoskovsk,,
 ocd-division/country:ru/state:tul/ed:tulsky,Tulsky,,
 ocd-division/country:ru/state:tve/ed:tverskoy,Tverskoy,,
